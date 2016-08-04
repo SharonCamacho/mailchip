@@ -1,0 +1,2 @@
+module EmaillistHelper
+end
